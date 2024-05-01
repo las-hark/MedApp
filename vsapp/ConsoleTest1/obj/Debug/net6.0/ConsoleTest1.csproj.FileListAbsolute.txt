@@ -1,0 +1,15 @@
+D:\vsapp\ConsoleTest1\bin\Debug\net6.0\ConsoleTest1.exe
+D:\vsapp\ConsoleTest1\bin\Debug\net6.0\ConsoleTest1.deps.json
+D:\vsapp\ConsoleTest1\bin\Debug\net6.0\ConsoleTest1.runtimeconfig.json
+D:\vsapp\ConsoleTest1\bin\Debug\net6.0\ConsoleTest1.dll
+D:\vsapp\ConsoleTest1\bin\Debug\net6.0\ConsoleTest1.pdb
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.csproj.AssemblyReference.cache
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.AssemblyInfoInputs.cache
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.AssemblyInfo.cs
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.csproj.CoreCompileInputs.cache
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.dll
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\refint\ConsoleTest1.dll
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.pdb
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ConsoleTest1.genruntimeconfig.cache
+D:\vsapp\ConsoleTest1\obj\Debug\net6.0\ref\ConsoleTest1.dll

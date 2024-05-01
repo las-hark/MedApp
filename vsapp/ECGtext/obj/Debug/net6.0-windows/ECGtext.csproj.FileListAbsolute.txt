@@ -1,0 +1,17 @@
+D:\vsapp\ECGtext\bin\Debug\net6.0-windows\ECGtext.exe
+D:\vsapp\ECGtext\bin\Debug\net6.0-windows\ECGtext.deps.json
+D:\vsapp\ECGtext\bin\Debug\net6.0-windows\ECGtext.runtimeconfig.json
+D:\vsapp\ECGtext\bin\Debug\net6.0-windows\ECGtext.dll
+D:\vsapp\ECGtext\bin\Debug\net6.0-windows\ECGtext.pdb
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.csproj.AssemblyReference.cache
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.csproj.GenerateResource.cache
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.AssemblyInfoInputs.cache
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.AssemblyInfo.cs
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.csproj.CoreCompileInputs.cache
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.dll
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\refint\ECGtext.dll
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.pdb
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.genruntimeconfig.cache
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ref\ECGtext.dll
+D:\vsapp\ECGtext\obj\Debug\net6.0-windows\ECGtext.frmMain.resources
